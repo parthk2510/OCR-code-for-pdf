@@ -1,0 +1,2 @@
+# OCR-code-for pdf
+ 
